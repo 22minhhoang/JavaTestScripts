@@ -1,0 +1,2 @@
+# JavaTestScripts
+For learning Java
